@@ -1,8 +1,8 @@
-# How to Use
+# How to Use/Dependencies
 
-This Project uses the Unsplash API to generate photos on the search of a word/sentence.
+This Project uses the Unsplash API to generate photos on the search of a word/sentence. (npm install unsplash-js)
 
-Used Bootstrap for some UI features as well. 
+Used Bootstrap for some UI features as well. (npm install react-bootstrap bootstrap)
 
 # You have $5 in your account to buy photos priced at $5 each, after you run out of funds you can still use the platform in viewing mode. 
 
