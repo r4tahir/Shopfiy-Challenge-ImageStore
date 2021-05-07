@@ -12,8 +12,11 @@ export default function SearchPhotos() {
     const [query, setQuery] = useState("");
     const [pics, setPics] = useState([]);
     const [showResult, setShowResult] = useState(true);
+//Console Log to test if Query has gone through
     console.log(query);
+	
 
+//Function that uses the API to generate the Photos
     const searchPhotos = async (e) => {
         e.preventDefault();
         unsplash.search
@@ -23,6 +26,7 @@ export default function SearchPhotos() {
         setPics(json.results);
         console.log(json);
         });
+//Console Log to show when the form has been submitted to the API
     console.log("Submitting the Form")
   };
 
