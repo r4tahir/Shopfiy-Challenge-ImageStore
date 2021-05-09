@@ -10,4 +10,4 @@ Your bought photos are tracked and recorded to you numerically on the platform
 
 # Growth Potential
 
-There are many areas for this application to grow - Users can create an image portfolio, you can have images sent to you and add more funds, or you could even share images with your friends ! The possibilities are endless.
+There are many areas for this application to grow - Users can create an image portfolios, you can have images sent to you and add more funds, or you could even share images with your friends ! The possibilities are endless.
